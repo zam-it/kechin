@@ -1,0 +1,6 @@
+D:\Projects\PriceParsers\ContinentalParser\ContinentalParser\bin\Debug\ContinentalParser.exe.config
+D:\Projects\PriceParsers\ContinentalParser\ContinentalParser\bin\Debug\ContinentalParser.exe
+D:\Projects\PriceParsers\ContinentalParser\ContinentalParser\bin\Debug\ContinentalParser.pdb
+D:\Projects\PriceParsers\ContinentalParser\ContinentalParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\PriceParsers\ContinentalParser\ContinentalParser\obj\x86\Debug\ContinentalParser.exe
+D:\Projects\PriceParsers\ContinentalParser\ContinentalParser\obj\x86\Debug\ContinentalParser.pdb
